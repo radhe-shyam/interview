@@ -1,0 +1,4 @@
+{
+    "DB_URL" : "mongodb+srv://interview_user:3O2r0EG5mBYq9rpK@cluster0.5ns0l.mongodb.net/interview?retryWrites=true&w=majority",
+    "startupDataLoaderApi": "https://jsonplaceholder.typicode.com/comments"
+}
